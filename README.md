@@ -17,8 +17,16 @@ Description:
 
 ---
 ## **Education**
+School: University of British Columbia
+
+//insert picture here
+
+Program: Bachelor of Commerce, Combined Business and Computer Science Major
 
 ### Entrance Requirements
+1. General Admission Requirements
+2. Degree Requirements
+3. Major Requirements
 
 ### First-Year Program Courses
 
@@ -33,6 +41,7 @@ Description:
 **Entry Level ( 0 - 2 years experience )**
 
 Salary:
+ 
 
 City: 
 
