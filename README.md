@@ -17,26 +17,39 @@ Description:
 
 ---
 ## **Education**
-School: University of British Columbia
+School: University of British Columbia (Vancouver Campus)
 
-//insert picture here
+![alt text](https://live.staticflickr.com/7309/11970021376_8b2fc42a45_4k.jpg "UBC Campus")
 
-Program: Bachelor of Commerce, Combined Business and Computer Science Major
+### **Bachelor of Commerce:**  *Combined Business and Computer Science Major*
+&nbsp;
+### General Admission Requirements:
+//include link to the program website here
+* Graduation from High School
+* Minimum grade of 70% in English
+* Completion of a Personal Profile
 
-### Entrance Requirements
-1. General Admission Requirements
-2. Degree Requirements
-3. Major Requirements
+### Degree Requirements:
+* English (ENG4U)
+* Advanced Functions (MHF4U)
+### Major Requirements:
+* Currently or newly admitted to the Bachelor of Commerce Program
+* Complete short essay question before the assigned deadline
+* Completed first-year course prerequisites (Combination of computer science and math courses)
 
 ### First-Year Program Courses
 
-### Degree Length
+
+**Degree Length**: 4 years regular, 5 years co-op
+
+
 ---
 ## **Experiential Learning Opportunities**
 
 ---
 
 ## **Real Job Postings**
+&nbsp;
 
 **Entry Level ( 0 - 2 years experience )**
 
