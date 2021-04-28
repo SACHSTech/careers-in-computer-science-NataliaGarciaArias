@@ -1,4 +1,4 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4632153&assignment_repo_type=AssignmentRepo)
+
 # Careers in Computer Science: IT Business Analyst
 
 About the career: 
@@ -19,10 +19,11 @@ Python and R are the two most common programming languages in analytics.
 
 &nbsp;
 # **Education**
-School: University of British Columbia (Vancouver Campus)
+
 
 ![alt text](https://live.staticflickr.com/7309/11970021376_8b2fc42a45_4k.jpg "UBC Campus")
 
+University of British Columbia - Vancouver Campus
 ## **Bachelor of Commerce:**  *Combined Business and Computer Science Major*
 
 [Click here to visit the program website](https://mybcom.sauder.ubc.ca/courses-money-enrolment/program-requirements/combined-major-in%C2%A0business-and-computer-science)
@@ -52,6 +53,26 @@ A first-year student working towards a Combined Major in Business and Computer S
 
 ---
 ## **Experiential Learning Opportunities**
+
+**Co-Operative Education:**
+
+The University of British Columbia's co-op program offers students the opportunity to work full-time at a company relevant to their degree. Students are able to step away from the classroom and apply their knowledge in the real world as they explore different career paths. Each co-op student must complete three four-month work terms. 
+
+*Benefits:*
+* *Graduate with relevant paid work experience on your resume*
+* *Networking opportunities*
+* *17% of work terms are in the Technology Industry*
+
+
+**Computer Science Student Society**
+
+The CSSS is a group led by students, for students, that is dedicated to organizing and hosting computer science-related events. From the annual Tech Career Fair, to bi-weekly coding challenges, being a part of this community is a great way for computer science students to practice their programming skills while building friendly relationships. 
+ 
+
+
+**Learning Exchange Program**
+
+The UBC Learning Exchange centre is located in Downtown Eastside Vancouver. This centre offers a shared spaces for the community to connect and learn in a variety of different ways. UBC students can volunteer to lead activities such as Computer Workshops, Arts Sessions, and even lead English Conversation Sessions. This volunteer work is a great way to build on leadership and interpersonal skills. 
 
 ---
 
