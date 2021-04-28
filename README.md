@@ -17,17 +17,17 @@ Python and R are the two most common programming languages in analytics.
 
 ### Salary Range
 
-
----
-## **Education**
+&nbsp;
+# **Education**
 School: University of British Columbia (Vancouver Campus)
 
 ![alt text](https://live.staticflickr.com/7309/11970021376_8b2fc42a45_4k.jpg "UBC Campus")
 
-### **Bachelor of Commerce:**  *Combined Business and Computer Science Major*
-&nbsp;
+## **Bachelor of Commerce:**  *Combined Business and Computer Science Major*
+
+[Click here to visit the program website](https://mybcom.sauder.ubc.ca/courses-money-enrolment/program-requirements/combined-major-in%C2%A0business-and-computer-science)
 ### General Admission Requirements:
-//include link to the program website here
+
 * Graduation from High School
 * Minimum grade of 70% in English
 * Completion of a Personal Profile
@@ -40,10 +40,14 @@ School: University of British Columbia (Vancouver Campus)
 * Complete short essay question before the assigned deadline
 * Completed first-year course prerequisites (Combination of computer science and math courses)
 
-### First-Year Program Courses
+### First-Year Program Courses:
+A first-year student working towards a Combined Major in Business and Computer Science would have to take courses on the following subjects:
+1. Business Fundamentals
+2. Computer Programming
+3. Micro and Macroeconomics
+4. Differential and Integral Calculus
 
-
-**Degree Length**: 4 years regular, 5 years co-op
+*Degree Length*: 4 years regular, 5 years co-op
 
 
 ---
