@@ -1,16 +1,19 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4632153&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
+# Careers in Computer Science: IT Business Analyst
 
-## **IT Business Analyst** 
-
-Description:
+About the career: 
 
 
 ### Duties and Responsibilities
 
-### Required Education
+### Required Education: 
+This career commonly requires a Bachelor's degree in Computer Science, Business Administration, or a related discipline. Some companies may require additional certification or training. 
 
-### Technical & Non-Technical Skills
+### Technical Skills
+
+**Programming/Coding Languages**
+
+Python and R are the two most common programming languages in analytics. 
 
 ### Salary Range
 
@@ -83,8 +86,6 @@ City:
 Job Description:
 
 Additional skills or experience required:
-
-
 
 
 
