@@ -94,11 +94,12 @@ The UBC Learning Exchange centre is located in Downtown Eastside Vancouver. This
 # **Job Postings**
 ### **Entry Level (0 - 2 years experience)**
 
-|                 |                         |
-| :-------------- | :-----------------------| 
-| Company:        |          Ubisoft        |
-| Salary:         | $63,000 - $88,000/year  |
-| City:           |      Montréal, QC       |
+|                 |                                      |
+| :-------------- | :------------------------------------| 
+| Job Title:      | IT Business Analyst - Finance B2C    |
+| Company:        |          Ubisoft                     |
+| Salary:         | $63,000 - $88,000/year               |
+| City:           |      Montréal, QC                    |
 
 \
 Job Description:   
@@ -115,6 +116,7 @@ Additional skills or experience:
 ### **Mid Level (3 - 5 years experience)**
 |                  |                               |
 | :--------------- | :---------------------------- | 
+| Job Title:       |  IT Business Analyst          |
 | Company:         |  Phillip Morris International |
 | Salary:          |  $74,000 - $98,000/ year      |
 | City:            |  Toronto, ON                  |
@@ -136,6 +138,7 @@ Additional skills or experience required:
 ### **Senior Level (5+ years experience)**
 |                   |                          |
 | :-----------------| :----------------------- | 
+| Job Title:        | Business Systems Analyst |
 | Company:          |         CGI              |
 | Salary:           | $83,000 - $110,000/ year |
 | City:             |        Toronto, ON       |
