@@ -1,13 +1,26 @@
 
-# Careers in Computer Science: IT Business Analyst
+# **Careers in Computer Science: IT Business Analyst**
 
-About the career: 
+![alt text](https://opengeekslab.com/wp-content/uploads/2020/03/Why-business-analyst-is-a-must-for-proper-app-development.png "Business Analyst")
+
+## About the career: 
+
+An IT Business Analyst is responsible for engaging with business leaders, conducting data-based research, and implementing innovative IT solutions. They act as the liaison between business and IT. The specifics of this career may vary between companies, but a business analyst generally works with different departments and present their findings in a way that is understandable. 
 
 
-### Duties and Responsibilities
+ **Duties and Responsibilities:**
 
-### Required Education: 
+* Consulting on strategy, policies, new projects through analyzing their impact with an IT perspective
+* Develop effective IT solutions from business needs
+* Analyze systems - interpret requirements for the IT department
+* Present their solutions in a variety of ways (Data models, busines plans, etc. )
+
+\
+ **Required Education:**
+
+
 This career commonly requires a Bachelor's degree in Computer Science, Business Administration, or a related discipline. Some companies may require additional certification or training. 
+
 
 ### Technical Skills
 
@@ -108,11 +121,11 @@ Additional skills or experience required:
 
 &nbsp;
 ### **Senior Level (5+ years experience)**
-|                   |                         |
-| :-----------------| :---------------------- | 
-| Company:          |         CGI             |
-| Salary:           | $83,000 - $110,000/year |
-| City:             |        Toronto, ON      |
+|                   |                          |
+| :-----------------| :----------------------- | 
+| Company:          |         CGI              |
+| Salary:           | $83,000 - $110,000/ year |
+| City:             |        Toronto, ON       |
 
 Job Description:
 
