@@ -176,3 +176,31 @@ Additional skills or experience required:
 * Proficiency in SQL and SAS environments
 
 [Click here for full details](https://ca.indeed.com/viewjob?jk=557b9a0a9144fc21&from=cobra_vj)
+
+
+---
+## Works Cited 
+
+“9 Skills Every Business Analytics Professional Needs.” HU-CBA, 16 Aug. 2018, analytics.hbs.edu/blog/top-business-analytics-skills/#:~:text=Statistical%20languages,sets%2C%20but%20is%20not%20vital.. Accessed 27 Apr. 2021.
+
+“B2C - IT Business Analyst.” Avature.net, 2017, pmi.avature.net/en_US/ExternalCareers/JobDetail/Canada-B2C-IT-Business-Analyst/38429?source=Indeed. Accessed 29 Apr. 2021.
+
+“Business Analyst, IT.” Payscale.com, 2021, www.payscale.com/research/CA/Job=Business_Analyst%2C_IT/Salary/b5e6ac26/Toronto-ON. Accessed 28 Apr. 2021.
+
+“Business and Computer Science at UBC’s Vancouver Campus | Undergraduate Programs and Admissions.” UBC | Undergraduate Programs and Admissions, 2013, you.ubc.ca/ubc_programs/business-computer-science/. Accessed 23 Apr. 2021.
+
+“Business Systems Analyst - Toronto, on - Indeed.com.” Indeed.com, 2021, ca.indeed.com/viewjob?jk=557b9a0a9144fc21&from=cobra_vj. Accessed 28 Apr. 2021.
+
+“IT Business Analyst – Finance B2C.” Ubisoft, 2021, jobs.smartrecruiters.com/Ubisoft2/743999741697137-it-business-analyst-finance-b2c?codes=1-INDEED. Accessed 29 Apr. 2021.
+
+Open Geeks Lab. “Technology Business Illustration,” Open Geeks Lab, opengeekslab.com/wp-content/uploads/2020/03/Why-business-analyst-is-a-must-for-proper-app-development.png. Accessed 28 Apr. 2021.
+
+“Top 20 Jobs (with Salaries!) | Workopolis.” Workopolis, 25 Mar. 2021, www.workopolis.com/jobsearch/find-jobs?cl=entry_level%2Cmid_level%2Csenior_level&j=IT+Business+Analyst&lg=en&pn=2&job=mkhkPeEuxltC175H3h07MMMj_9gY06jHHJPHmiR2J38FXkuA3X0qiQ. Accessed 28 Apr. 2021.
+
+UBC. “UBC Main Mall Aerial,” Flickr, 13 Sept. 2013, www.flickr.com/photos/ubcpublicaffairs/11970021376/in/album-72157639809631794/. Accessed 27 Apr. 2021.
+
+“UBC Students | Learning Exchange.” Learningexchange.ubc.ca, 2018, learningexchange.ubc.ca/ubc-student-learning/ubc-students/. Accessed 27 Apr. 2021.
+
+“View Unit Group - Canada.ca.” Esdc.gc.ca, 2016, noc.esdc.gc.ca/Structure/NocProfile/fc1d6ba8454a41088d609b6b9a102750?objectid=P0s577TQkX6okmm3FtgLOsbfXJrxe%2BtshCrrAAd%2F86XFX6TPSYMhz3zxew8hm5ng. Accessed 27 Apr. 2021.
+
+“Workshops & Events.” MyBCom | Sauder School of Business at UBC, Vancouver, Canada, 14 Nov. 2014, mybcom.sauder.ubc.ca/career-experience/workshops-and-events. Accessed 28 Apr. 2021.
