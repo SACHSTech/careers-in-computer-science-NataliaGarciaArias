@@ -5,7 +5,7 @@
 
 ## About the career: 
 
-An IT Business Analyst is responsible for engaging with business leaders, conducting data-based research, and implementing innovative IT solutions. They act as the liaison between business and IT. The specifics of this career may vary between companies, but a business analyst generally works with different departments and present their findings in a way that is understandable. 
+An IT Business Analyst is responsible for engaging with business leaders, conducting data-based research, and implementing innovative IT solutions. They act as the liaison between business and IT. The specifics of this career may vary between companies, but a business analyst generally works with different departments and present their findings in a way that is understandable.  
 
 
  **Duties and Responsibilities:**
@@ -203,4 +203,4 @@ UBC. “UBC Main Mall Aerial,” Flickr, 13 Sept. 2013, www.flickr.com/photos/ub
 
 “View Unit Group - Canada.ca.” Esdc.gc.ca, 2016, <noc.esdc.gc.ca/Structure/NocProfile/fc1d6ba8454a41088d609b6b9a102750?objectid=P0s577TQkX6okmm3FtgLOsbfXJrxe%2BtshCrrAAd%2F86XFX6TPSYMhz3zxew8hm5ng.> Accessed 27 Apr. 2021.
 
-“Workshops & Events.” MyBCom | Sauder School of Business at UBC, Vancouver, Canada, 14 Nov. 2014, <mybcom.sauder.ubc.ca/career-experience/workshops-and-events.> Accessed 28 Apr. 2021.
+“Workshops & Events.” MyBCom | Sauder School of Business at UBC, Vancouver, Canada, 14 Nov. 2014, <mybcom.sauder.ubc.ca/career-experience/workshops-and-events.> Accessed 28 Apr. 2021
