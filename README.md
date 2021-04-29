@@ -15,20 +15,12 @@ This career commonly requires a Bachelor's degree in Computer Science, Business 
 
 Python and R are the two most common programming languages in analytics. 
 
-### IT Business Analyst Salary Range at Top 3 Tech Cities in Canada:
+### Salary Range  in Canada:
 Base Salary - Before bonuses, benefits, commissions, tax deductions
 
-**Vancouver, British Columbia**
-
-$51k - $96k/year 
-
-**Toronto**
-
-$50k - $85k/year
-
-**Ottawa**
-
-$47k - $87k/year
+| Vancouver, BC     | Toronto, ON      | 
+| :---------------: | :---------------:| 
+| $51k - $96k/year  | $50k - $85k/year | 
 
 &nbsp;
 # **Education**
@@ -86,41 +78,45 @@ The UBC Learning Exchange centre is located in Downtown Eastside Vancouver. This
 
 ---
 
-## **Real Job Postings**
+## **Job Postings**
 &nbsp;
 
-**Entry Level ( 0 - 2 years experience )**
+### **Entry Level ( 0 - 2 years experience )**
 
-Salary:
- 
+|                                  | |                      |
+| :------------------------------- |-| :---------------     | 
+| Company:                         | |         Ubisoft        |
+| Salary:                          | | $63,000 - $88,000/year  |
+| City:                            | |         Montréal, QC       |
 
-City: 
+Job Description:                 
+Additional skills or experience: 
 
-Job Description:
+&nbsp;
 
-Additional skills or experience required:
+### **Mid Level ( 3 - 5 years experience )**
 
-
-**Mid Level ( 3 - 5 years experience )**
-
-Salary:
-
-City: 
-
-Job Description:
-
-Additional skills or experience required:
-
-
-**Senior Level (5+ years experience)**
-
-Salary:
-
-City: 
+|                                  | |                      |
+| :------------------------------- |-| :---------------     | 
+| Company:                         | |         Phillip Morris International      |
+| Salary:                          | | $74,000 - $98,000/ year  |
+| City:                            | |         Toronto, ON       |
 
 Job Description:
 
 Additional skills or experience required:
+* English and French proficiency (Speaking and Writing)
+
+&nbsp;
+### **Senior Level (5+ years experience)**
 
 
+|                                  | |                      |
+| :------------------------------- |-| :---------------     | 
+| Company:                         | |         CGI        |
+| Salary:                          | | $83,000 - $110,000/year  |
+| City:                            | |         Toronto, ON       |
 
+Job Description:
+
+Additional skills or experience required:
