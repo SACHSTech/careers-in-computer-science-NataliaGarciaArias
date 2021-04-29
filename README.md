@@ -199,8 +199,8 @@ Open Geeks Lab. “Technology Business Illustration,” Open Geeks Lab, opengeek
 
 UBC. “UBC Main Mall Aerial,” Flickr, 13 Sept. 2013, www.flickr.com/photos/ubcpublicaffairs/11970021376/in/album-72157639809631794/. Accessed 27 Apr. 2021.
 
-“UBC Students | Learning Exchange.” Learningexchange.ubc.ca, 2018, learningexchange.ubc.ca/ubc-student-learning/ubc-students/. Accessed 27 Apr. 2021.
+“UBC Students | Learning Exchange.” Learningexchange.ubc.ca, 2018, <learningexchange.ubc.ca/ubc-student-learning/ubc-students/.> Accessed 27 Apr. 2021.
 
-“View Unit Group - Canada.ca.” Esdc.gc.ca, 2016, noc.esdc.gc.ca/Structure/NocProfile/fc1d6ba8454a41088d609b6b9a102750?objectid=P0s577TQkX6okmm3FtgLOsbfXJrxe%2BtshCrrAAd%2F86XFX6TPSYMhz3zxew8hm5ng. Accessed 27 Apr. 2021.
+“View Unit Group - Canada.ca.” Esdc.gc.ca, 2016, <noc.esdc.gc.ca/Structure/NocProfile/fc1d6ba8454a41088d609b6b9a102750?objectid=P0s577TQkX6okmm3FtgLOsbfXJrxe%2BtshCrrAAd%2F86XFX6TPSYMhz3zxew8hm5ng.> Accessed 27 Apr. 2021.
 
-“Workshops & Events.” MyBCom | Sauder School of Business at UBC, Vancouver, Canada, 14 Nov. 2014, mybcom.sauder.ubc.ca/career-experience/workshops-and-events. Accessed 28 Apr. 2021.
+“Workshops & Events.” MyBCom | Sauder School of Business at UBC, Vancouver, Canada, 14 Nov. 2014, <mybcom.sauder.ubc.ca/career-experience/workshops-and-events.> Accessed 28 Apr. 2021.
