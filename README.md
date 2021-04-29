@@ -81,26 +81,25 @@ The UBC Learning Exchange centre is located in Downtown Eastside Vancouver. This
 ## **Job Postings**
 &nbsp;
 
-### **Entry Level ( 0 - 2 years experience )**
+### **Entry Level (0 - 2 years experience)**
 
-|                                  | |                      |
-| :------------------------------- |-| :---------------     | 
-| Company:                         | |         Ubisoft        |
-| Salary:                          | | $63,000 - $88,000/year  |
-| City:                            | |         Montréal, QC       |
+|                 |                         |
+| :-------------- | :-----------------------| 
+| Company:        |          Ubisoft        |
+| Salary:         | $63,000 - $88,000/year  |
+| City:           |      Montréal, QC       |
 
 Job Description:                 
 Additional skills or experience: 
 
 &nbsp;
 
-### **Mid Level ( 3 - 5 years experience )**
-
-|                  Mid level                |                     |
-| :------------------------------- | :---------------     | 
-| Company:                         |         Phillip Morris International      |
-| Salary:                       |    $74,000 - $98,000/ year  |
-| City:                          |           Toronto, ON       |
+### **Mid Level (3 - 5 years experience)**
+|                  |                               |
+| :--------------- | :---------------------------- | 
+| Company:         |  Phillip Morris International |
+| Salary:          |  $74,000 - $98,000/ year      |
+| City:            |  Toronto, ON                  |
 
 Job Description:
 
@@ -109,13 +108,11 @@ Additional skills or experience required:
 
 &nbsp;
 ### **Senior Level (5+ years experience)**
-
-
-|                                  | |                      |
-| :------------------------------- |-| :---------------     | 
-| Company:                         | |         CGI        |
-| Salary:                          | | $83,000 - $110,000/year  |
-| City:                            | |         Toronto, ON       |
+|                   |                         |
+| :-----------------| :---------------------- | 
+| Company:          |         CGI             |
+| Salary:           | $83,000 - $110,000/year |
+| City:             |        Toronto, ON      |
 
 Job Description:
 
