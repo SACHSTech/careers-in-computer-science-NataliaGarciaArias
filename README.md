@@ -89,11 +89,9 @@ The CSSS is a group led by students, for students, that is dedicated to organizi
 
 The UBC Learning Exchange centre is located in Downtown Eastside Vancouver. This centre offers a shared spaces for the community to connect and learn in a variety of different ways. UBC students can volunteer to lead activities such as Computer Workshops, Arts Sessions, and even lead English Conversation Sessions. This volunteer work is a great way to build on leadership and interpersonal skills. 
 
----
-
-## **Job Postings**
 &nbsp;
 
+# **Job Postings**
 ### **Entry Level (0 - 2 years experience)**
 
 |                 |                         |
@@ -102,8 +100,15 @@ The UBC Learning Exchange centre is located in Downtown Eastside Vancouver. This
 | Salary:         | $63,000 - $88,000/year  |
 | City:           |      Montréal, QC       |
 
-Job Description:                 
+\
+Job Description:   
+> "As an IT Business Analyst, your role will be to act as a link between the Finance business and technical teams to design and transform business needs into effective and sustainable IT solutions.” 
+
 Additional skills or experience: 
+* English and French proficiency (speaking and writing)
+* IT project management
+
+[Click here for full details](https://jobs.smartrecruiters.com/Ubisoft2/743999741697137-it-business-analyst-finance-b2c?codes=1-INDEED)
 
 &nbsp;
 
@@ -114,10 +119,18 @@ Additional skills or experience:
 | Salary:          |  $74,000 - $98,000/ year      |
 | City:            |  Toronto, ON                  |
 
+\
 Job Description:
 
+
+> “ This is an exciting opportunity for you to shape our B2C Team that develops technology delivering on critical commercial and external stakeholder focused business outcomes. You will be key in ensuring continuous development excellence, high-level business user and consumer satisfaction, and ultimately help us achieve our mission.” 
+
+
 Additional skills or experience required:
-* English and French proficiency (Speaking and Writing)
+* Experience with E-Commerce environments
+* Proficiency in project workplace softwares such as Jira, Confluence, Visio
+
+[Click here for full details](https://pmi.avature.net/en_US/ExternalCareers/JobDetail/Canada-B2C-IT-Business-Analyst/38429?source=Indeed)
 
 &nbsp;
 ### **Senior Level (5+ years experience)**
@@ -127,6 +140,15 @@ Additional skills or experience required:
 | Salary:           | $83,000 - $110,000/ year |
 | City:             |        Toronto, ON       |
 
+\
 Job Description:
 
+> “Business Systems Analysts gather business needs, solicit product and enhancement requirements from end users and must be able to convert these requests to present to technology teams.”
+
 Additional skills or experience required:
+
+* 5 + years of general IT experience
+* Min 3 years experience as Business System Analyst
+* Proficiency in SQL and SAS environments
+
+[Click here for full details](https://ca.indeed.com/viewjob?jk=557b9a0a9144fc21&from=cobra_vj)
