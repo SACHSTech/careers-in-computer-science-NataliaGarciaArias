@@ -96,11 +96,11 @@ Additional skills or experience:
 
 ### **Mid Level ( 3 - 5 years experience )**
 
-|                                  | |                      |
-| :------------------------------- |-| :---------------     | 
-| Company:                         | |         Phillip Morris International      |
-| Salary:                          | | $74,000 - $98,000/ year  |
-| City:                            | |         Toronto, ON       |
+|                  Mid level                |                     |
+| :------------------------------- | :---------------     | 
+| Company:                         |         Phillip Morris International      |
+| Salary:                       |    $74,000 - $98,000/ year  |
+| City:                          |           Toronto, ON       |
 
 Job Description:
 
