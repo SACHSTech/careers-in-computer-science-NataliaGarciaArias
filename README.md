@@ -21,20 +21,41 @@ An IT Business Analyst is responsible for engaging with business leaders, conduc
 
 This career commonly requires a Bachelor's degree in Computer Science, Business Administration, or a related discipline. Some companies may require additional certification or training. 
 
+&nbsp;
+### **Technical Skills:**
 
-### Technical Skills
+In IT Business Analysis, Python, R, and SQL are the most common programming languages. Understandably, a high-level of proficiency is required.
 
-**Programming/Coding Languages**
+ This career also requires proficiency using a variety of softwares. These may include, but are not limited to:
+* Microsoft Office: Excel, Word, PowerPoint
+* SPSS (Analytics software)
+* SAS (Analytics software)
 
-Python and R are the two most common programming languages in analytics. 
+&nbsp;
+### **Non-Technical Skills**
 
-### Salary Range  in Canada:
-Base Salary - Before bonuses, benefits, commissions, tax deductions
+*Communication*
+
+Due to the collaborative nature of the career, an IT Business Analyst must have excellent **communication skills**. They would often need to present their findings to fellow leaders, interact between departments, share ideas, and overall engage in many interpersonal interactions. 
+
+
+*Business Knowledge*
+
+
+Aside from their technological knowledge, they must also have a **deep understanding of business operations**. An IT Business Analyst must understand facets of the company, roles of the different departments, and be able to build strategic business plans.
+
+*Critical thinking/Problem Solving*
+
+A major aspect of this career involves **seeking problems and offering innovative solutions**. An IT Business Analyst must have excellent skills in critical thinking in order to maximize a company's efficiency or resolve a need in the best way possible - all while considering the IT aspect. 
+
+&nbsp;
+### **Salary Range  in Canada:**
 
 | Vancouver, BC     | Toronto, ON      | 
 | :---------------: | :---------------:| 
-| $51k - $96k/year  | $50k - $85k/year | 
+| $51k - $96k/year*  | $50k - $85k/year* | 
 
+*Base Salary - Before bonuses, benefits, commissions, tax deductions
 &nbsp;
 # **Education**
 
